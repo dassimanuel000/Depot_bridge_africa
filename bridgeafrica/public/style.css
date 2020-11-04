@@ -1,0 +1,11 @@
+s.td::first-letter {
+    text-transform: uppercase;
+}
+
+.td::first-line {
+    text-transform: uppercase;
+}
+
+.td_name {
+    text-transform: uppercase;
+}
